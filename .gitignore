@@ -1,1 +1,11 @@
 /books
+/_pycache_
+*.pyc
+.DS_Store
+.env
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+*.log
